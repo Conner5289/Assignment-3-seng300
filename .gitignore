@@ -1,0 +1,12 @@
+
+# Ignore editor stuff
+.classpath
+.project
+.settings/
+*.swp  
+.idea/
+/.metadata/
+.vscode/
+
+#Ignore maven output, keeps only source in reop
+Book-info/target/
