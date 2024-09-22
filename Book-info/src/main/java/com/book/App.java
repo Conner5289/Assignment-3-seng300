@@ -1,13 +1,13 @@
+
 package com.book;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+import java.util.ArrayList;
+
+public class App {
+    public static void main(String[] args) {
+
+        // use main to make make arrylist, not sold may change latter
+        ArrayList<Book> books = new ArrayList<Book>();
+
     }
 }
